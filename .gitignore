@@ -1,2 +1,3 @@
 # Ignore kicad backup files
+hardware/main_board/fp-info-cache
 hardware/main_board/main_board-backups
